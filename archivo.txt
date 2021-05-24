@@ -1,0 +1,10 @@
+Practica 1 Git con github
+Materia: Aplicaciones Web
+Docente: Jose Christian Narvaez Figueroa
+Grupo: 3C
+Carrera: TIC
+Area: DSM
+Turno: Matutino
+Competencias: Algun texto para rellenar el campo
+Objetivo materia: Desarrollar aplicaciones que puedan ser desplegadas en internet
+
